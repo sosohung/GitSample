@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Tibame
+ *
+ */
+module GitHubSample {
+}
