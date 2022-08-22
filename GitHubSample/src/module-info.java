@@ -6,4 +6,5 @@
  *
  */
 module GitHubSample {
+	System.out.println("test");
 }
